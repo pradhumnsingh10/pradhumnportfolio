@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pradhumnsingh10/deploy.git/static/css/main.ac51fde7.chunk.css",
+    "main.js": "/pradhumnsingh10/deploy.git/static/js/main.83decd56.chunk.js",
+    "main.js.map": "/pradhumnsingh10/deploy.git/static/js/main.83decd56.chunk.js.map",
+    "runtime-main.js": "/pradhumnsingh10/deploy.git/static/js/runtime-main.ee5aeade.js",
+    "runtime-main.js.map": "/pradhumnsingh10/deploy.git/static/js/runtime-main.ee5aeade.js.map",
+    "static/js/2.18c4c999.chunk.js": "/pradhumnsingh10/deploy.git/static/js/2.18c4c999.chunk.js",
+    "static/js/2.18c4c999.chunk.js.map": "/pradhumnsingh10/deploy.git/static/js/2.18c4c999.chunk.js.map",
+    "index.html": "/pradhumnsingh10/deploy.git/index.html",
+    "precache-manifest.3cf68d92b020e1cf939d0060062a8cda.js": "/pradhumnsingh10/deploy.git/precache-manifest.3cf68d92b020e1cf939d0060062a8cda.js",
+    "service-worker.js": "/pradhumnsingh10/deploy.git/service-worker.js",
+    "static/css/main.ac51fde7.chunk.css.map": "/pradhumnsingh10/deploy.git/static/css/main.ac51fde7.chunk.css.map",
+    "static/js/2.18c4c999.chunk.js.LICENSE.txt": "/pradhumnsingh10/deploy.git/static/js/2.18c4c999.chunk.js.LICENSE.txt",
+    "static/media/background.webp": "/pradhumnsingh10/deploy.git/static/media/background.bf989778.webp",
+    "static/media/contact-form.styles.css": "/pradhumnsingh10/deploy.git/static/media/background.e95d0563.webp",
+    "static/media/profile.webp": "/pradhumnsingh10/deploy.git/static/media/profile.97ee8a84.webp",
+    "static/media/slide1.webp": "/pradhumnsingh10/deploy.git/static/media/slide1.8bce7aef.webp",
+    "static/media/slide2.webp": "/pradhumnsingh10/deploy.git/static/media/slide2.7256f309.webp",
+    "static/media/slide3.webp": "/pradhumnsingh10/deploy.git/static/media/slide3.8e5b87b6.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee5aeade.js",
+    "static/js/2.18c4c999.chunk.js",
+    "static/css/main.ac51fde7.chunk.css",
+    "static/js/main.83decd56.chunk.js"
+  ]
+}
